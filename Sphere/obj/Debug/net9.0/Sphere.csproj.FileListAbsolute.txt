@@ -1,0 +1,14 @@
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Sphere\bin\Debug\net9.0\Sphere.exe
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Sphere\bin\Debug\net9.0\Sphere.deps.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Sphere\bin\Debug\net9.0\Sphere.runtimeconfig.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Sphere\bin\Debug\net9.0\Sphere.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Sphere\bin\Debug\net9.0\Sphere.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Sphere\obj\Debug\net9.0\Sphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Sphere\obj\Debug\net9.0\Sphere.AssemblyInfoInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Sphere\obj\Debug\net9.0\Sphere.AssemblyInfo.cs
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Sphere\obj\Debug\net9.0\Sphere.csproj.CoreCompileInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Sphere\obj\Debug\net9.0\Sphere.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Sphere\obj\Debug\net9.0\refint\Sphere.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Sphere\obj\Debug\net9.0\Sphere.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Sphere\obj\Debug\net9.0\Sphere.genruntimeconfig.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Sphere\obj\Debug\net9.0\ref\Sphere.dll

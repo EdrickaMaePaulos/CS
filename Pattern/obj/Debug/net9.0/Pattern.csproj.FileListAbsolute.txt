@@ -1,0 +1,14 @@
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Pattern\bin\Debug\net9.0\Pattern.exe
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Pattern\bin\Debug\net9.0\Pattern.deps.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Pattern\bin\Debug\net9.0\Pattern.runtimeconfig.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Pattern\bin\Debug\net9.0\Pattern.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Pattern\bin\Debug\net9.0\Pattern.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Pattern\obj\Debug\net9.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Pattern\obj\Debug\net9.0\Pattern.AssemblyInfoInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Pattern\obj\Debug\net9.0\Pattern.AssemblyInfo.cs
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Pattern\obj\Debug\net9.0\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Pattern\obj\Debug\net9.0\Pattern.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Pattern\obj\Debug\net9.0\refint\Pattern.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Pattern\obj\Debug\net9.0\Pattern.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Pattern\obj\Debug\net9.0\Pattern.genruntimeconfig.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Pattern\obj\Debug\net9.0\ref\Pattern.dll

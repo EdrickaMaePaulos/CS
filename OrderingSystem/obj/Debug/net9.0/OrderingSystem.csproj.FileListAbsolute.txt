@@ -1,0 +1,14 @@
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\OrderingSystem\bin\Debug\net9.0\OrderingSystem.exe
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\OrderingSystem\bin\Debug\net9.0\OrderingSystem.deps.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\OrderingSystem\bin\Debug\net9.0\OrderingSystem.runtimeconfig.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\OrderingSystem\bin\Debug\net9.0\OrderingSystem.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\OrderingSystem\bin\Debug\net9.0\OrderingSystem.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\OrderingSystem\obj\Debug\net9.0\OrderingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\OrderingSystem\obj\Debug\net9.0\OrderingSystem.AssemblyInfoInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\OrderingSystem\obj\Debug\net9.0\OrderingSystem.AssemblyInfo.cs
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\OrderingSystem\obj\Debug\net9.0\OrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\OrderingSystem\obj\Debug\net9.0\OrderingSystem.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\OrderingSystem\obj\Debug\net9.0\refint\OrderingSystem.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\OrderingSystem\obj\Debug\net9.0\OrderingSystem.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\OrderingSystem\obj\Debug\net9.0\OrderingSystem.genruntimeconfig.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\OrderingSystem\obj\Debug\net9.0\ref\OrderingSystem.dll
