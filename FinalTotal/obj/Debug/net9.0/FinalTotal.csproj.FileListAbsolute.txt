@@ -1,0 +1,14 @@
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\FinalTotal\bin\Debug\net9.0\FinalTotal.exe
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\FinalTotal\bin\Debug\net9.0\FinalTotal.deps.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\FinalTotal\bin\Debug\net9.0\FinalTotal.runtimeconfig.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\FinalTotal\bin\Debug\net9.0\FinalTotal.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\FinalTotal\bin\Debug\net9.0\FinalTotal.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\FinalTotal\obj\Debug\net9.0\FinalTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\FinalTotal\obj\Debug\net9.0\FinalTotal.AssemblyInfoInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\FinalTotal\obj\Debug\net9.0\FinalTotal.AssemblyInfo.cs
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\FinalTotal\obj\Debug\net9.0\FinalTotal.csproj.CoreCompileInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\FinalTotal\obj\Debug\net9.0\FinalTotal.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\FinalTotal\obj\Debug\net9.0\refint\FinalTotal.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\FinalTotal\obj\Debug\net9.0\FinalTotal.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\FinalTotal\obj\Debug\net9.0\FinalTotal.genruntimeconfig.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\FinalTotal\obj\Debug\net9.0\ref\FinalTotal.dll

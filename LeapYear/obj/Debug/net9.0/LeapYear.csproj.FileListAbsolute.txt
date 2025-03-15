@@ -1,0 +1,14 @@
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\LeapYear\bin\Debug\net9.0\LeapYear.exe
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\LeapYear\bin\Debug\net9.0\LeapYear.deps.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\LeapYear\bin\Debug\net9.0\LeapYear.runtimeconfig.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\LeapYear\bin\Debug\net9.0\LeapYear.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\LeapYear\bin\Debug\net9.0\LeapYear.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\LeapYear\obj\Debug\net9.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\LeapYear\obj\Debug\net9.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\LeapYear\obj\Debug\net9.0\LeapYear.AssemblyInfo.cs
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\LeapYear\obj\Debug\net9.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\LeapYear\obj\Debug\net9.0\LeapYear.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\LeapYear\obj\Debug\net9.0\refint\LeapYear.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\LeapYear\obj\Debug\net9.0\LeapYear.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\LeapYear\obj\Debug\net9.0\LeapYear.genruntimeconfig.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\LeapYear\obj\Debug\net9.0\ref\LeapYear.dll
