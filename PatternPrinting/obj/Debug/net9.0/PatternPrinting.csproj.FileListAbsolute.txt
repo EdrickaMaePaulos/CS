@@ -1,0 +1,14 @@
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PatternPrinting\bin\Debug\net9.0\PatternPrinting.exe
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PatternPrinting\bin\Debug\net9.0\PatternPrinting.deps.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PatternPrinting\bin\Debug\net9.0\PatternPrinting.runtimeconfig.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PatternPrinting\bin\Debug\net9.0\PatternPrinting.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PatternPrinting\bin\Debug\net9.0\PatternPrinting.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PatternPrinting\obj\Debug\net9.0\PatternPrinting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PatternPrinting\obj\Debug\net9.0\PatternPrinting.AssemblyInfoInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PatternPrinting\obj\Debug\net9.0\PatternPrinting.AssemblyInfo.cs
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PatternPrinting\obj\Debug\net9.0\PatternPrinting.csproj.CoreCompileInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PatternPrinting\obj\Debug\net9.0\PatternPrinting.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PatternPrinting\obj\Debug\net9.0\refint\PatternPrinting.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PatternPrinting\obj\Debug\net9.0\PatternPrinting.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PatternPrinting\obj\Debug\net9.0\PatternPrinting.genruntimeconfig.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PatternPrinting\obj\Debug\net9.0\ref\PatternPrinting.dll

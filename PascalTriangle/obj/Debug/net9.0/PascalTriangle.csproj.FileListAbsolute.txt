@@ -1,0 +1,14 @@
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PascalTriangle\bin\Debug\net9.0\PascalTriangle.exe
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PascalTriangle\bin\Debug\net9.0\PascalTriangle.deps.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PascalTriangle\bin\Debug\net9.0\PascalTriangle.runtimeconfig.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PascalTriangle\bin\Debug\net9.0\PascalTriangle.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PascalTriangle\bin\Debug\net9.0\PascalTriangle.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PascalTriangle\obj\Debug\net9.0\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PascalTriangle\obj\Debug\net9.0\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PascalTriangle\obj\Debug\net9.0\PascalTriangle.AssemblyInfo.cs
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PascalTriangle\obj\Debug\net9.0\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PascalTriangle\obj\Debug\net9.0\PascalTriangle.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PascalTriangle\obj\Debug\net9.0\refint\PascalTriangle.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PascalTriangle\obj\Debug\net9.0\PascalTriangle.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PascalTriangle\obj\Debug\net9.0\PascalTriangle.genruntimeconfig.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\PascalTriangle\obj\Debug\net9.0\ref\PascalTriangle.dll

@@ -1,0 +1,14 @@
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\SkippingRows\bin\Debug\net9.0\SkippingRows.exe
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\SkippingRows\bin\Debug\net9.0\SkippingRows.deps.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\SkippingRows\bin\Debug\net9.0\SkippingRows.runtimeconfig.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\SkippingRows\bin\Debug\net9.0\SkippingRows.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\SkippingRows\bin\Debug\net9.0\SkippingRows.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\SkippingRows\obj\Debug\net9.0\SkippingRows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\SkippingRows\obj\Debug\net9.0\SkippingRows.AssemblyInfoInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\SkippingRows\obj\Debug\net9.0\SkippingRows.AssemblyInfo.cs
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\SkippingRows\obj\Debug\net9.0\SkippingRows.csproj.CoreCompileInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\SkippingRows\obj\Debug\net9.0\SkippingRows.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\SkippingRows\obj\Debug\net9.0\refint\SkippingRows.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\SkippingRows\obj\Debug\net9.0\SkippingRows.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\SkippingRows\obj\Debug\net9.0\SkippingRows.genruntimeconfig.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\SkippingRows\obj\Debug\net9.0\ref\SkippingRows.dll
