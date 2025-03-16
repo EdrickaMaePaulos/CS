@@ -1,0 +1,14 @@
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\2DArrayWFunction\bin\Debug\net9.0\2DArrayWFunction.exe
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\2DArrayWFunction\bin\Debug\net9.0\2DArrayWFunction.deps.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\2DArrayWFunction\bin\Debug\net9.0\2DArrayWFunction.runtimeconfig.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\2DArrayWFunction\bin\Debug\net9.0\2DArrayWFunction.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\2DArrayWFunction\bin\Debug\net9.0\2DArrayWFunction.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\2DArrayWFunction\obj\Debug\net9.0\2DArrayWFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\2DArrayWFunction\obj\Debug\net9.0\2DArrayWFunction.AssemblyInfoInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\2DArrayWFunction\obj\Debug\net9.0\2DArrayWFunction.AssemblyInfo.cs
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\2DArrayWFunction\obj\Debug\net9.0\2DArrayWFunction.csproj.CoreCompileInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\2DArrayWFunction\obj\Debug\net9.0\2DArrayWFunction.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\2DArrayWFunction\obj\Debug\net9.0\refint\2DArrayWFunction.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\2DArrayWFunction\obj\Debug\net9.0\2DArrayWFunction.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\2DArrayWFunction\obj\Debug\net9.0\2DArrayWFunction.genruntimeconfig.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\2DArrayWFunction\obj\Debug\net9.0\ref\2DArrayWFunction.dll

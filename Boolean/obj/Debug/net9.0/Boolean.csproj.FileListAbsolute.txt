@@ -1,0 +1,14 @@
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Boolean\bin\Debug\net9.0\Boolean.exe
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Boolean\bin\Debug\net9.0\Boolean.deps.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Boolean\bin\Debug\net9.0\Boolean.runtimeconfig.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Boolean\bin\Debug\net9.0\Boolean.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Boolean\bin\Debug\net9.0\Boolean.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Boolean\obj\Debug\net9.0\Boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Boolean\obj\Debug\net9.0\Boolean.AssemblyInfoInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Boolean\obj\Debug\net9.0\Boolean.AssemblyInfo.cs
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Boolean\obj\Debug\net9.0\Boolean.csproj.CoreCompileInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Boolean\obj\Debug\net9.0\Boolean.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Boolean\obj\Debug\net9.0\refint\Boolean.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Boolean\obj\Debug\net9.0\Boolean.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Boolean\obj\Debug\net9.0\Boolean.genruntimeconfig.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\Boolean\obj\Debug\net9.0\ref\Boolean.dll

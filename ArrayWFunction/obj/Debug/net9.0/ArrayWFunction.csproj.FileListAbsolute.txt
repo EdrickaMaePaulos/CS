@@ -1,0 +1,14 @@
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\ArrayWFunction\bin\Debug\net9.0\ArrayWFunction.exe
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\ArrayWFunction\bin\Debug\net9.0\ArrayWFunction.deps.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\ArrayWFunction\bin\Debug\net9.0\ArrayWFunction.runtimeconfig.json
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\ArrayWFunction\bin\Debug\net9.0\ArrayWFunction.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\ArrayWFunction\bin\Debug\net9.0\ArrayWFunction.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\ArrayWFunction\obj\Debug\net9.0\ArrayWFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\ArrayWFunction\obj\Debug\net9.0\ArrayWFunction.AssemblyInfoInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\ArrayWFunction\obj\Debug\net9.0\ArrayWFunction.AssemblyInfo.cs
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\ArrayWFunction\obj\Debug\net9.0\ArrayWFunction.csproj.CoreCompileInputs.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\ArrayWFunction\obj\Debug\net9.0\ArrayWFunction.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\ArrayWFunction\obj\Debug\net9.0\refint\ArrayWFunction.dll
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\ArrayWFunction\obj\Debug\net9.0\ArrayWFunction.pdb
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\ArrayWFunction\obj\Debug\net9.0\ArrayWFunction.genruntimeconfig.cache
+C:\Users\Lyrel Andrea Harina\Documents\C#\CSharp\CS_AOOP_Practices\ArrayWFunction\obj\Debug\net9.0\ref\ArrayWFunction.dll
